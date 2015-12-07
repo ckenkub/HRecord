@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">บันทึกประจำวัน</string>
+    <string name="User">ผู้ใช้ :</string>
+    <string name="Pass">รหัสผ่าน :</string>
+    <string name="Sign_up">สมัครสมาชิก</string>
+    <string name="Sign_in">เข้าสู่ระบบ</string>
+    <string name="title_signup">สมัครสมาชิก</string>
+    <string name="male">ชาย</string>
+    <string name="name">ชื่อ</string>
+    <string name="weight">น้ำหนัก (กิโลกรัม)</string>
+    <string name="height">ส่วนสูง (เซนติเมตร)</string>
+    <string name="age">อายุ</string>
+    <string name="sex">เพศ</string>
+    <string name="female">หญิง</string>
+    <string name="email">อีเมลล์</string>
+    <string name="save">บันทึกข้อมูล</string>
+    <string name="title_record">บันทึกพฤติกรรมประจำวัน</string>
+    <string name="sleep">การนอน</string>
+    <string name="morning">อาหารเช้า</string>
+    <string name="lunch">อาหารกลางวัน</string>
+    <string name="dinner">อาหารเย็น</string>
+    <string name="time">เวลาออกกำลังกาย</string>
+    <string name="kilo">(กิโลกรัม)</string>
+    <string name="hour">(ชั่วโมง)</string>
+    <string name="exercise">ออกกำลังกาย</string>
+    <string name="drink">การดื่มน้ำ (แก้ว)</string>
+    <string name="weightrecord">น้ำหนัก</string>
+    <string name="food">อาหาร</string>
+
+    <string name="run">วิ่ง</string>
+    <string name="bicycle">จักรยาน</string>
+    <string name="swim">ว่ายน้ำ</string>
+    <string name="yoga">โยคะ</string>
+    <string name="other">อื่นๆ</string>
+    <string name="history">ประวัติ</string>
+
+    <string name="passwordfalse">รหัสผ่านผิดพลาด</string>
+    <string name="passwordfalse2">กรุณาใส่รหัสผ่านใหม่อีกครั้ง</string>
+    <string name="havespace">มีช่องว่าง</string>
+    <string name="havespace2">กรุณาใส่ข้อมูลให้ครบ</string>
+
+    <string name="userfalse">ผู้ใช้ผิดพลาด</string>
+    <string name="none">ไม่มี </string>
+    <string name="indatabase"> ในฐานข้อมูล</string>
+
+    <string name="changeuser">เปลี่ยนผู้ใช้</string>
+    <string name="user">ผู้ใช้</string>
+    <string name="database_already_exists.">มีอยู่ในฐานข้อมูลแล้ว</string>
+
+    <string name="drink2">การดื่มน้ำ</string>
+    <string name="glass">แก้ว</string>
+    <string name="kilo2">กิโลกรัม</string>
+    <string name="hour2">ชั่วโมง</string>
+    <string name="weight2">น้ำหนัก</string>
+
+    <string name="password">รหัสผ่าน</string>
+    <string name="height2">ส่วนสูง</string>
+
+</resources>
